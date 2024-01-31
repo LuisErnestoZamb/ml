@@ -1,1 +1,5 @@
-# ml
+# Practicas
+
+- Pytorch
+- Pandas
+- Sklearn
